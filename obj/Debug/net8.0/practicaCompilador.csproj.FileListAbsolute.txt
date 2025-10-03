@@ -1,0 +1,15 @@
+C:\Users\MarcCallejon\Desktop\practicaCompilador\bin\Debug\net8.0\practicaCompilador.exe
+C:\Users\MarcCallejon\Desktop\practicaCompilador\bin\Debug\net8.0\practicaCompilador.deps.json
+C:\Users\MarcCallejon\Desktop\practicaCompilador\bin\Debug\net8.0\practicaCompilador.runtimeconfig.json
+C:\Users\MarcCallejon\Desktop\practicaCompilador\bin\Debug\net8.0\practicaCompilador.dll
+C:\Users\MarcCallejon\Desktop\practicaCompilador\bin\Debug\net8.0\practicaCompilador.pdb
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.AssemblyInfoInputs.cache
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.AssemblyInfo.cs
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.csproj.CoreCompileInputs.cache
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.sourcelink.json
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.dll
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\refint\practicaCompilador.dll
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.pdb
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\practicaCompilador.genruntimeconfig.cache
+C:\Users\MarcCallejon\Desktop\practicaCompilador\obj\Debug\net8.0\ref\practicaCompilador.dll
